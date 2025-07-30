@@ -2,6 +2,8 @@
 
 ## Introduction
 
+In this fork, we have adapted this functionality for the AtomS3R + Atomic Echo Base solution. If you're interested, please refer to [this tutorial](/solutions/openai_demo/OPENAI_README_EN.md).
+
 This repository provides everything needed to build a WebRTC application.  
 It includes the `esp_webrtc` core code along with its dependent components, such as:  
 - **`esp_capture`**: For capturing media data  
